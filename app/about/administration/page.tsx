@@ -23,7 +23,7 @@ export default function AdministrationPage() {
       MarathiName: "श्री. रमेश बाबू साबळे",
       EnglishName: "Mr. Ramesh Babu Sable",
       positionKey: "Sarpanch / सरपंच",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      image: "/images/sarpanch.jpg",
       phone: "+91-8805466777",
       phoneDevnagari: "+९१-८८०५४६६७७७",
       email: "rameshsabale22@gmail.com",
@@ -33,7 +33,7 @@ export default function AdministrationPage() {
       MarathiName: "श्री. धनाजी लक्ष्मन यादव",
       EnglishName: "Mr. Dhanaji Laxman Yadav",
       positionKey: "Upa-Sarpanch / उप-सरपंच",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      image: "/images/upsarpanch.jpg",
       phone: "+91-9834046245",
       phoneDevnagari: "+९१-९८३४०४६२४५",
       email: "dhanajiyadav19@gmail.com",
@@ -54,8 +54,8 @@ export default function AdministrationPage() {
       id: 4,
       MarathiName: "सौ. सरूबाई नारायण पवार",
       EnglishName: "Mrs. Sarubai Narayan Pawar",
-      positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      positionKey: "Member / सदस्या",
+      image: "/images/sarubai_pawar.jpg",
       phone: "+91-9172259918",
       phoneDevnagari: "+९१-९१७२२५९९१८",
       email: "wayafalgrampanchayat@gmail.com",
@@ -64,8 +64,8 @@ export default function AdministrationPage() {
       id: 5,
       MarathiName: "सौ. लक्ष्मी जगन्नाथ यादव",
       EnglishName: "Mrs. Laxmi Jagannath Yadav",
-      positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      positionKey: "Member / सदस्या",
+      image: "/images/Laxmi_Yadav.jpg",
       phone: "+91-9359392562",
       phoneDevnagari: "+९१-९३५९३९२५६२",
       email: "wayafalgrampanchayat@gmail.com",
@@ -75,7 +75,7 @@ export default function AdministrationPage() {
       MarathiName: "नितीश सुर्यकांत यादव",
       EnglishName: "Mr. Nitish Suryakant Yadav",
       positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      image: "/images/nitesh_yadav.jpg",
       phone: "+91-9960421617",
       phoneDevnagari: "+९१-९९६०४२१६१७",
       email: "Ynitish473@gmail.com",
@@ -84,8 +84,8 @@ export default function AdministrationPage() {
       id: 7,
       MarathiName: "दिपाली बसवेश्वर पाटील",
       EnglishName: "Ms. Dipali Basveshwar Patil",
-      positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      positionKey: "Member / सदस्या",
+      image: "/images/dipavi.jpg",
       phone: "+91-9307157451",
       phoneDevnagari: "+९१-९३०७१५७४५१",
       email: "dipalibpatil2910@gmail.com",
@@ -94,8 +94,8 @@ export default function AdministrationPage() {
       id: 8,
       MarathiName: "अलका विलास यादव",
       EnglishName: "Ms. Alaka Vilas Yadav",
-      positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      positionKey: "Member / सदस्या",
+      image: "/images/alka_yadav.jpg",
       phone: "+91-8459248478",
       phoneDevnagari: "+९१-८४५९२४८४७८",
       email: "gy565793@gamil.com",
@@ -105,7 +105,7 @@ export default function AdministrationPage() {
       MarathiName: "सुनील आकाराम साबळे",
       EnglishName: "Mr. Sunil Akaram Sabale",
       positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      image: "/images/sunil_sabale.jpg",
       phone: "+91-9096244359",
       phoneDevnagari: "+९१-९०९६२४४३५९",
       email: "sunilsabale1971@gmail.com",
@@ -115,7 +115,7 @@ export default function AdministrationPage() {
       MarathiName: "विजय भाऊसो यादव",
       EnglishName: "Mr. Vijay Bhauso Yadav",
       positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      image: "/images/vijay_yadav.jpg",
       phone: "+91-7709069051",
       phoneDevnagari: "+९१-७७०९०६९०५१",
       email: "vyadav2755@gmail.com",
@@ -124,8 +124,8 @@ export default function AdministrationPage() {
       id: 11,
       MarathiName: "सुजाता सतीश पाटील",
       EnglishName: "Ms. Sujata Satish Patil",
-      positionKey: "Member / सदस्य",
-      image: "/images/Seal_of_Maharashtra.svg.png",
+      positionKey: "Member / सदस्या",
+      image: "/images/sujata_patil.jpg",
       phone: "+91-7709897183",
       phoneDevnagari: "+९१-७७०९८९७१८३",
       email: "wayafalgrampanchayat@gmail.com",
@@ -133,25 +133,6 @@ export default function AdministrationPage() {
   ];
 
   // const administrativeStaff = [
-  //   {
-  //     id: 7,
-  //     MarathiName: "संतोष भिमराव पाटील",
-  //     EnglishName: "Santosh Bhimrao Patil",
-  //     position: "पोलीस पाटील /Police Patil",
-  //     image: "/images/official3.jpg",
-  //     phone: "+91-9270001001",
-  //     phoneDevnagari: "+९१-९२७०००१००१",
-  //   },
-  //   {
-  //     id: 8,
-  //     MarathiName: "संतोष जयवंत जगताप ",
-  //     EnglishName: "Santosh Jaywant Jagtap",
-  //     position:
-  //       "तंटामुक्ती अध्यक्ष / President, Dispute-Free Village Committee",
-  //     image: "/images/official3.jpg",
-  //     phone: "+91-9689845978",
-  //     phoneDevnagari: "+९१-९६८९८४५९७८",
-  //   },
   // ];
 
   const committees = [
@@ -215,7 +196,7 @@ export default function AdministrationPage() {
                 <div className="bg-gradient-to-r from-government-blue to-government-green p-4 text-white text-center">
                   <div className="w-24 h-24 mx-auto mb-3 rounded-full overflow-hidden border-4 border-white">
                     <Image
-                      src={"/images/Seal_of_Maharashtra.svg.png"}
+                      src={member.image}
                       alt={"member.name"}
                       width={500}
                       height={500}
